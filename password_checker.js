@@ -1,3 +1,4 @@
+//
 const passwordField = document.getElementById("password-input");
 passwordField.addEventListener("input", passwordCheck);
 
